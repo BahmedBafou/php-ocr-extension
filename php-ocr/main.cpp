@@ -1,3 +1,11 @@
+/*********************************************************
+ *
+ * PHP-OCR Extension
+ *
+ * written by Glenn De Backer <glenn@simplicity.be>
+ *
+  *********************************************************/
+
 // Standard
 #include <iostream> 
 #include <fstream> 
