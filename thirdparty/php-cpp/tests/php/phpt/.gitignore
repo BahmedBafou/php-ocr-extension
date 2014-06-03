@@ -1,0 +1,14 @@
+*.diff
+*.exp
+*.log
+*.out
+*.php
+*.sh
+*.mem
+*.phpt-diff
+*.phpt-exp
+*.phpt-log
+*.phpt-out
+*.phpt-php
+*.phpt-sh
+*.phpt-mem
