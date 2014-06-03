@@ -43,5 +43,5 @@ make install
 License
 ----
 
-GPL
+LGPL
 
