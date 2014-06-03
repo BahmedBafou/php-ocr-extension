@@ -30,6 +30,15 @@ To enable the extensions (apache2)
 php5enmod php-ocr
 ```
 
+Usage
+--------------
+$text = php_ocr_recognize("test/lorem.jpg");
+
+echo $text // Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue mauris, tristique bibendum scelerisque sed, pulvinar et lacus. Praesent ut metus eu velit dictum aliquam eta orci
+```
+make
+make install
+```
 
 License
 ----
